@@ -1,7 +1,7 @@
 lottery-combinator
 ==================
 
-Small Ruby software to generate all combinations of some Brazilian lotteries.
+Softwares to generate all combinations of some Brazilian lotteries.
 
 ## Defaults:
 
